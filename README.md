@@ -1,0 +1,2 @@
+# pqlt
+PartiQL TUI tool.
